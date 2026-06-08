@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import {
   Card, CardContent, Box, Avatar, TextField, Button,
-  IconButton, Typography, Chip, CircularProgress, Alert
+  IconButton, Typography, CircularProgress, Alert
 } from '@mui/material';
 import { Image, Close, Send } from '@mui/icons-material';
 import { useAuth } from '../context/AuthContext';
