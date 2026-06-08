@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {
   Card, CardContent, CardMedia, CardActions, Box, Avatar, Typography,
-  IconButton, Button, Divider, TextField, Collapse, Chip, Menu, MenuItem
+  IconButton, Button, Divider, TextField, Collapse, Menu, MenuItem
 } from '@mui/material';
 import {
   Favorite, FavoriteBorder, ChatBubbleOutline, MoreVert, Delete,
